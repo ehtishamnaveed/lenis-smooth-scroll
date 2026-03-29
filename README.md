@@ -14,7 +14,7 @@ A professional, performance-focused WordPress plugin that integrates the [Lenis]
 
 ## Installation
 
-1. Download the `Lenis-Smooth-Scroll.zip` from the [Releases](https://github.com/omagucchy/lenis-smooth-scroll/releases) page.
+1. Download the `Lenis-Smooth-Scroll.zip` from the [Releases](https://github.com/ehtishamnaveed/lenis-smooth-scroll/releases) page.
 2. Log in to your WordPress admin dashboard.
 3. Navigate to `Plugins` -> `Add New` -> `Upload Plugin`.
 4. Select the downloaded ZIP file and click `Install Now`.
